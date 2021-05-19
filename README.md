@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Huynh Hai, CSE Student from HCMUT...
+- 👀 I’m interested in Traveling, Gaming, Reading, Music, Gym,...
+- 🌱 I’m currently learning on Fullstack Programing...
+- 📫 Contact: Phone (0942239400) - FB (www.facebook.com/haryo.hh) - Email (conghai20@gmail.com or hai.huynh.2101@hcmut.edu.vn)
+
+<!---
+hmtam1302/hmtam1302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
